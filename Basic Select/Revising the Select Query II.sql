@@ -1,1 +1,0 @@
-SELECT name FROM CITY WHERE countrycode='usa' AND population>120000;
